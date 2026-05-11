@@ -1,0 +1,26 @@
+==================================================
+📊 UNEMPLOYMENT ANALYSIS USING PYTHON
+==================================================
+
+✅ Project completed successfully using Python.
+
+📈 Features Included:
+✔ Data Cleaning
+✔ Data Analysis
+✔ Data Visualization
+✔ Unemployment Trend Analysis
+✔ Labour Participation Analysis
+
+📉 Visualizations Included:
+✔ Unemployment Distribution
+✔ Top Regions Analysis
+✔ Employment Analysis
+✔ Labour Participation Pie Chart
+✔ Monthly Unemployment Trend
+
+🏆 Project developed for CodeAlpha Internship
+
+👨‍💻 Developed By:
+Shaik Numaan
+
+==================================================
